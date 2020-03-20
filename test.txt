@@ -6,4 +6,8 @@ Creating a new branch is quick and simple.
 >>>>>>> featurel
 add merge
 from cpq
+<<<<<<< HEAD
 git if free software -- issue-101
+=======
+change from cpq on dev
+>>>>>>> dev
